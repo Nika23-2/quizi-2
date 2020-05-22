@@ -1,0 +1,100 @@
+/* 1 */
+.body{
+    padding:20px ;
+    display: flex;
+    justify-content: baseline;
+    flex-direction: column;
+    margin: 50px auto;
+    background-color: rgb(46, 46, 168);
+    width:600px;
+    height: 400px;
+    outline:1px solid honeydew;
+    outline-offset: -20px;
+}
+.div1{
+    position: relative;
+    margin:  auto;
+}
+/* 2 */
+.body1{
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 40px auto;
+    height: 550px;
+    width: 550px;
+    background: rgb(196, 196, 196);
+}
+.divy{ 
+    box-sizing: border-box;
+    margin: 12.5px;
+    min-height: 80px;
+    width: 487px;
+    background-color: rgb(252, 252, 127) ;
+    font-size: 10px;
+    padding: 20px;
+}
+.div3{
+    margin: 0px 10px;
+    border: 0px;
+    width: 120px;
+    border-radius: 2px;
+}
+.div4{
+    margin: 0px 5px;
+    border-radius: 2px;
+    border: 0px;
+    width: 80px;
+}
+.div41{
+    margin: 0px 10px;
+    border-radius: 2px;
+    border: 0px;
+    width: 60px;
+}
+.div5{
+    margin-bottom: 10px;
+}
+.divb{
+    padding: 20px;
+    box-sizing: border-box;
+    position: relative;
+    margin: 12.5px;
+    min-height:  400px;
+    width: 80px;
+    background-color: rgb(173, 173, 255) ;
+    font-size: 10px;
+}
+.divo{
+    padding: 20px;
+    box-sizing: border-box;
+    position: relative;
+    background-color: rgb(255, 222, 160) ;
+    height: 100px;
+    width: 400px;
+    left: 100px;
+    bottom: 413px;
+    font-size: 10px;
+}
+
+.divr{
+    padding: 20px;
+    box-sizing: border-box;
+    position: relative;
+    background-color: rgb(253, 135, 135);
+    height: 100px;
+    width: 400px;
+    left: 100px;
+    bottom: 370px;
+    font-size: 10px;
+}
+.divg{
+    padding: 20px;
+    box-sizing: border-box;
+    height: 100px;
+    width: 400px;
+    left: 100px;
+    bottom: 315px;
+    position: relative;
+    background-color: rgb(120, 168, 120) ;
+    font-size: 10px;
+}
